@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI PARK 자동화 프로그램",
+  "description": "A comprehensive AI-powered platform for automating content creation from keyword analysis to visual asset generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
